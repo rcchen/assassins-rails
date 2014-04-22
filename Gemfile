@@ -35,6 +35,9 @@ end
 # Use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.1.2'
 
+# Bootstrap for basic styling
+gem 'twitter-bootstrap-rails'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
